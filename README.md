@@ -24,14 +24,18 @@ Actualmente desarrollando un máster práctico desde cero con foco en:
 ## Proyectos destacados (en construcción)
 - Generador automático de propuestas técnicas
 - Sistema de análisis de pliegos con IA
-- Chatbot inteligente para gestión clínica
+- Chatbot inteligentes
 
 ## Tecnologías
 - IA Generativa
 - Python (en aprendizaje)
 - APIs
 - Automatización
-- Cloud
+- Cloud (AWS, Azure, GCP)
+
+## 📈 Estado
+
+-  En construcción — aprendizaje activo y continuo
 
 ---
 
